@@ -97,28 +97,28 @@ defineOgImageComponent('Test', {
         :description="data.description"
         :tags="data.tags"
       />
-      <div
-        class="prose prose-pre:max-w-xs sm:prose-pre:max-w-full prose-sm sm:prose-base md:prose-lg
-        prose-h1:no-underline max-w-5xl mx-auto prose-zinc dark:prose-invert prose-img:rounded-lg"
-      >
-        <ContentRenderer v-if="articles" :value="articles">
-          <template #empty>
-            <p>No content found.</p>
-          </template>
-        </ContentRenderer>
-      </div>
+<!--      <div-->
+<!--        class="prose prose-pre:max-w-xs sm:prose-pre:max-w-full prose-sm sm:prose-base md:prose-lg-->
+<!--        prose-h1:no-underline max-w-5xl mx-auto prose-zinc dark:prose-invert prose-img:rounded-lg"-->
+<!--      >-->
+<!--        <ContentRenderer v-if="articles" :value="articles">-->
+<!--          <template #empty>-->
+<!--            <p>No content found.</p>-->
+<!--          </template>-->
+<!--        </ContentRenderer>-->
+<!--      </div>-->
     </div>
     <BlogToc />
 
-    <div class="flex flex-row gap-2">
-      <SocialShare
-        v-for="network in ['facebook', 'twitter', 'linkedin', 'email']"
-        :key="network"
-        :network="network"
-        :styled="true"
-        :label="false"
-        class="p-4"
-      />
-    </div>
+<!--    <div class="flex flex-row gap-2">-->
+<!--      <SocialShare-->
+<!--        v-for="network in ['facebook', 'twitter', 'linkedin', 'email']"-->
+<!--        :key="network"-->
+<!--        :network="network"-->
+<!--        :styled="true"-->
+<!--        :label="false"-->
+<!--        class="p-4"-->
+<!--      />-->
+<!--    </div>-->
   </div>
 </template>

@@ -4,7 +4,13 @@
       About This Site
     </p>
     <p class="py-2 dark:text-zinc-300 ">
-      This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.
+      A blog built with Nuxt3, Vue3 and TailwindCSS.
     </p>
+    <p class="py-2 dark:text-zinc-300 ">
+      reserved.
+    </p>
+
   </div>
 </template>
+<script setup lang="ts">
+</script>

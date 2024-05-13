@@ -4,9 +4,9 @@ export default defineNuxtConfig({
     head: {
       charset: 'utf-16',
       viewport: 'width=device-width,initial-scale=1',
-      title: 'Riyad\'s Blog',
-      titleTemplate: '%s - Riyad\'s Blog',
-      meta: [{ name: 'description', content: 'Riyad\'s awesome blog' }],
+      title: 'GaoJunRan\'s Blog',
+      titleTemplate: '%s - GaoJunRan\'s Blog',
+      meta: [{ name: 'description', content: 'GaoJunRan\'s Blog' }],
     },
     pageTransition: { name: 'page', mode: 'out-in' },
     layoutTransition: { name: 'layout', mode: 'out-in' },
@@ -16,11 +16,11 @@ export default defineNuxtConfig({
     strictNuxtContentPaths: true,
   },
   site: {
-    url: 'https://blog.nurriyad.xyz',
+    url: 'https://nebulog-gaojunrans-projects.vercel.app/',
     identity: {
       type: 'Person',
     },
-    twitter: '@qdnvubp',
+    // twitter: '@qdnvubp',
   },
 
   typescript: {
