@@ -15,10 +15,8 @@
       <div class="px-6 justify-self-center">
         <NuxtImg
           src="/template.png"
-          width="300"
-          height="300"
           quality="50"
-          class="rounded-md mt-10"
+          class="rounded-md mt-10 sm:w-[300px] sm:h-[300px] w-[100px] h-[100px]"
         />
       </div>
     </div>
