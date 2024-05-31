@@ -16,7 +16,6 @@ defineOgImageComponent('About', {
   headline: 'Greetings 👋',
   title: 'Nebula\'s Blog',
   description: '永远相信美好的事情即将发生。',
-  link: '',
 })
 </script>
 
