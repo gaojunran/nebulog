@@ -33,7 +33,6 @@ defineOgImageComponent('About', {
         </h3>
         <div class="flex flex-col gap-2">
           <p>重庆邮电大学 软件工程专业在读的 大一学生。</p>
-<!--          <p>精通Python；</p>-->
           <p>正在学习和使用Python、Java/Kotlin、JavaScript/TypeScript；</p>
           <p>熟悉全栈Web开发、多平台开发和数据分析。</p>
           <p></p>
