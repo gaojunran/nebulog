@@ -6,8 +6,8 @@ const ogTitle
 const twitterDescription
   = 'Nebula\'s Blog'
 const image
-  = 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp'
-const mySite = 'https://blog-nurriyad.vercel.app/'
+  = ''
+const mySite = ''
 useHead({
   htmlAttrs: {
     lang: 'en',

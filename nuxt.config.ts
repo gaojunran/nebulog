@@ -4,9 +4,9 @@ export default defineNuxtConfig({
     head: {
       charset: 'utf-16',
       viewport: 'width=device-width,initial-scale=1',
-      title: 'GaoJunRan\'s Blog',
-      titleTemplate: '%s - GaoJunRan\'s Blog',
-      meta: [{ name: 'description', content: 'GaoJunRan\'s Blog' }],
+      title: 'Nebula\'s Blog',
+      titleTemplate: '%s - Nebula\'s Blog',
+      meta: [{ name: 'description', content: 'Nebula\'s Blog' }],
     },
     pageTransition: { name: 'page', mode: 'out-in' },
     layoutTransition: { name: 'layout', mode: 'out-in' },

@@ -3,7 +3,7 @@ defineOgImageComponent('About', {
   headline: 'Greetings 👋',
   title: 'Nebula',
   description: 'Nebula\'s Blog',
-  link: '/riyad.jpg',
+  link: '',
 })
 </script>
 
