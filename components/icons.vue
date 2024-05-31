@@ -30,7 +30,7 @@ const toggle = (picSrc: string) => {
   </div>
   <UModal v-model="isOpen">
     <div class="p-4">
-      <img :src="nowPic" class="w-full"  alt=""/>
+      <NuxtImg :src="nowPic" class="w-full"  alt=""/>
     </div>
   </UModal>
 </template>

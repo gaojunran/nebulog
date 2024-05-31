@@ -13,7 +13,7 @@ defineOgImageComponent('About', {
       <div class="col-span-5  max-w-md">
         <div class="flex justify-between">
           <div>
-            <h1 class="text-3xl md:text-4xl  pb-2 font-bold ">
+            <h1 class="text-3xl md:text-4xl  pb-4 font-bold ">
               高浚然
             </h1>
             <Icons></Icons>

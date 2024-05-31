@@ -16,7 +16,7 @@
         <NuxtImg
           src="/template.png"
           quality="50"
-          class="rounded-md mt-10 sm:w-[300px] sm:h-[300px] w-[100px] h-[100px]"
+          class="rounded-md mt-10 sm:w-[200px] sm:h-[200px] w-[100px] h-[100px] sm:block hidden"
         />
       </div>
     </div>
