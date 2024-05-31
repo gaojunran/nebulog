@@ -10,7 +10,7 @@
         </p>
       </div>
       <div class="px-6 justify-self-center">
-        <LogoDogpow />
+<!--        <LogoDogpow />-->
       </div>
     </div>
   </div>
