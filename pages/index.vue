@@ -14,9 +14,8 @@ useHead({
 // Generate OG Image
 defineOgImageComponent('About', {
   headline: 'Greetings 👋',
-  title: 'GaoJunRan\'s Blog',
+  title: 'Nebula\'s Blog',
   description: '永远相信美好的事情即将发生。',
-  link: '/riyad.jpg',
 })
 </script>
 
