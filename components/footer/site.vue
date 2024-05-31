@@ -1,14 +1,14 @@
 <template>
   <div>
     <p class="text-black dark:text-zinc-300   text-base py-1 font-semibold">
-      About This Site
+      关于本站
     </p>
     <p class="py-2 dark:text-zinc-300 ">
-      A blog built with Nuxt3, Vue3 and TailwindCSS.
+      使用Nuxt/TailwindCSS构建、Vercel部署的个人博客。
     </p>
-    <p class="py-2 dark:text-zinc-300 ">
-      reserved.
-    </p>
+<!--    <p class="py-2 dark:text-zinc-300 ">-->
+<!--      reserved.-->
+<!--    </p>-->
 
   </div>
 </template>

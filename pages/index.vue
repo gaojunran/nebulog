@@ -8,7 +8,7 @@ useHead({
         '欢迎来到我的博客。希望我们能在这里共同进步。',
     },
   ],
-  titleTemplate: 'GaoJunRan\'s Blog - %s',
+  titleTemplate: 'Nebula\'s Blog - %s',
 })
 
 // Generate OG Image
@@ -24,6 +24,6 @@ defineOgImageComponent('About', {
   <main class="container max-w-5xl mx-auto text-zinc-600">
     <MainHero />
     <MainRecent />
-    <MainTrending />
+<!--    <MainTrending />-->
   </main>
 </template>

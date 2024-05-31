@@ -52,8 +52,9 @@ export default defineNuxtConfig({
     '@nuxtjs/fontaine',
     '@nuxtjs/color-mode',
     'nuxt-simple-sitemap',
-    '@nuxtjs/tailwindcss',
+    // '@nuxtjs/tailwindcss',
     '@stefanobartoletti/nuxt-social-share',
+    "@nuxt/ui"
   ],
 
   content: {

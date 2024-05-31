@@ -13,7 +13,13 @@
         </p>
       </div>
       <div class="px-6 justify-self-center">
-<!--        <LogoDog />-->
+        <NuxtImg
+          src="/template.png"
+          width="300"
+          height="300"
+          quality="50"
+          class="rounded-md mt-10"
+        />
       </div>
     </div>
   </div>
